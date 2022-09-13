@@ -1,1 +1,1 @@
-Hello world from remote branch: newbranch2
+Hello world from remote branch: newbranch
